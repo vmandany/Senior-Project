@@ -142,8 +142,8 @@ header h1 {
     }
 }
 .image-slider {
-    width: 400px;
-    height: 300px;
+    width: 375px;
+    height: 280px;
     overflow: hidden;
     display: flex;
     align-items: center;
